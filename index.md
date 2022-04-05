@@ -8,8 +8,8 @@ layout: default
 
 {% include 02-image.md %}
 
-[text](https://example.com)
-
 <br>
 
 {% include 03-links.md %}
+
+[Dice15 GitHub Profile](https://github.com/Dice15)
